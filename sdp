@@ -1,0 +1,139 @@
+Requirement Specification
+    Prompt the user to enter the number of columns.
+    Prompt the user to enter the number of rows.
+    Prompt the user to enter the number of players.
+    Display the scores of the players.
+    Display the gameboard.
+    Prompt the user to flip two cards.
+    If the user gets a match, let that player go again.
+    If the user doesn't get a match, let the other play.
+    If the user picks a card already chosen, make them choose a new card.
+    When all of the matches have been chosen, display, the winner.
+    If there is a tie, display the players that tied.
+
+System Analysis
+    Functions/Calls/methods
+    If/else/elif statements
+    while/for loops
+    Lists/multidimensional lists
+
+
+System Design
+    *****************
+    MemoryCard
+    *****************
+    -self.__firstAscii: int
+    -self.__id: int
+    -self.__flipCard: boolean
+    -self.__value = int
+    *****************
+    MemoryCard()
+    getValue(): int
+    toggleFlipped(): boolean
+    isFlipped(): boolean
+    displayCard(): str
+    __str__(): str
+    *****************
+    getValue
+        Return a value for every two ids.
+    toggleFlipped
+        Flips a card over using boolean values.
+    isFlipped
+        Returns true if toggleFlipped() is true.
+    displayCard
+        Takes the value of the card and turns it into a symbol.
+    __str__
+        Returns a string form of self.displayCard()
+    ******************
+    Make a constructor __init__ with parameters self, id.
+        Set self.__firstAscii equal to the number 33.
+        Set self.__id equal to variable id.
+        Set self.__flipCard equal to False.
+        Set self.__value equal to self.getValue().
+    Define getValue method with parameter 'self'
+        Set 'newValue' equal to self.__id
+        Make an if statement if self.__id is divisible by 2. If it is:
+            Subtract 1 from 'newValue' from 1.
+        Return newValue plus self.__firstAscii
+    Define toggle Flipped with parameter 'self'
+        Make and if statement if self.__flipCard is equal to True. If it does:
+            Set self.__flipCard to equal False
+            Return False.
+        Make and if statement if self.__flipCard is equal to False. If it does:
+            Set self.__flipCard equal to True.
+            Return True.
+    Define isFLipped with parameter 'self'
+        Make and if statement if self.__flipCard is equal to True. If it does:
+            Return True.
+    Define displayCard with parameter 'self'
+        Make and if statement if self.__flipCard is equal to True. If it does:
+            Return a string version of an ASCII value at position self.getValue.
+        Make and else statement.
+            Return a string of an empty space.
+    Define __str__ with parameter 'self'
+        Return self.displayCard()
+    *****************
+    GameBoard
+    *****************
+    self.__cols: int
+    self.__rows: int
+    self.__board: int
+    *****************
+    GameBoard()
+    getBoard(): str
+    flipCard(xPos, yPos: int): None
+    isCardFlipped(xPos, yPos): boolean
+    isMatch(pos1, pos2): boolean
+    *****************
+    getBoard()
+        Returns a string representation of a game board
+    flipCard()
+        Takes a card and flips it face up or face down
+    isCardFlipped()
+        Returns true if the card at a given position is flipped up or not.
+    isMatch()
+        Returns true if two cards at certain positions have the same value or not.
+    *******************
+    Define __init__ with parameters 'self' 'COLS' and 'ROWS'
+        Set self.__cols equal to 'COLS'
+        Set self.__rows equal to 'ROWS'
+        Set self.__board equal to an empty list.
+            Set firstList equal to an empty list.
+            Make a for loop with variable 'x' and range (self.__cols * self.__rows)
+                Append MemoryCard with id of x to firstList.
+            Shuffle firstList
+            Make a for loop with variable 'i' in range (self.__rows)
+                Append a [] to self.__board.
+            Make a for loop with variable 'j' in range (self.__rows)
+                Make a for loop with variable 'k' in range (self.__cols)
+                    Append the last card of firstList by using pop at position j.
+    Define getBoard with parameter 'self'
+        Set 'gameBoardDisplay' equal to an empty string.
+        Make a for statement with variable i and range(self.__cols)
+            Add separator "|" plus the i of string of i + 1 to 'gameBoardDisplay'.
+        Add another separator "|" to 'gameBoardDisplay'
+        Make a for statement with variable 'j' and range(self.__rows)
+            Add a new line with a row separator multiplied by the columns.
+            Add a new line with a string of j + 1 plus " | "
+        Make a for statement with variable 'k' and a range of self.__cols.
+            Add Display the symbol by using displayCard at position [j][k] of self.__board to gameBoardDisplay.
+            Add separator "|" to gameBoard Display.
+        Return gameBoardDisplay.
+    Define flipCard with parameters self, xPos, and yPos.
+        Call toggleFlipped on self.__board at xPos minus 1 and yPos minus 1.
+    Define isCardFlipped with parameters self, xPos, and yPos.
+        If self.__board[xPos-1][yPos-1].isFlipped() is equal to true. If it is.
+            Return True.
+        Make an else statement.
+            Return False.
+    Define isMatch with parameters self, pos1, and pos2.
+        Set xPos equal to pos1 at position 0
+        Set yPos equal to pos1 at position 1
+        Set xPos1 equal to pos2 at position 0
+        Set yPos1 equal to pos2 at position 1
+        If the value of self.__board at position xPos minus 1 and yPos minus 1 is equal to the value of self.__board at position xPos1 minus 1 and yPos1 minus 1. If it does:
+            Return True
+        Make an else statement.
+        Return False
+
+

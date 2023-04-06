@@ -1,0 +1,2733 @@
+"r","7","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915732974","memorycard.py"
+"r","8","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915752508","memorycard.py"
+"r","9","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915753501","memorycard.py"
+"o","9",,"
+Process finished with exit code 0
+",,"system","1638915753502",
+"r","10","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915772985","memorycard.py"
+"o","10",,"
+Process finished with exit code 0
+",,"system","1638915772985",
+"r","11","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915774844","memorycard.py"
+"o","11",,"
+Process finished with exit code 0
+",,"system","1638915774845",
+"r","12","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915788674","memorycard.py"
+"r","13","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915789358","memorycard.py"
+"o","13",,"
+Process finished with exit code 0
+",,"system","1638915789369",
+"r","14","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915797216","memorycard.py"
+"r","15","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915802034","memorycard.py"
+"o","15",,"
+Process finished with exit code 0
+",,"system","1638915802037",
+"r","16","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638915803076","memorycard.py"
+"o","16",,"
+Process finished with exit code 0
+",,"system","1638915803108",
+"r","17","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638916808962","memorycard.py"
+"r","18","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638916810106","memorycard.py"
+"o","18",,"
+Process finished with exit code 0
+",,"system","1638916810114",
+"r","19","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638916834446","memorycard.py"
+"r","20","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638916844805","memorycard.py"
+"o","20",,"
+Process finished with exit code 0
+",,"system","1638916844805",
+"r","21","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638916846370","memorycard.py"
+"r","22","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memorycard.py""",,"PythonRunner",,"1638917958818","memorycard.py"
+"o","22",,"Traceback (most recent call last):
+",,"stderr","1638917958860",
+"o","22",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 2, in <module>
+",,"stderr","1638917958860",
+"o","22",,"    from gameboard import GameBoard
+",,"stderr","1638917958860",
+"o","22",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 4
+",,"stderr","1638917958860",
+"o","22",,"    def __init__(self,COLS, ROWS)
+",,"stderr","1638917958860",
+"o","22",,"                                 ^
+",,"stderr","1638917958860",
+"o","22",,"SyntaxError: invalid syntax
+",,"stderr","1638917958860",
+"o","22",,"
+Process finished with exit code 1
+",,"system","1638917958860",
+"r","49","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1638939750819","memory_test.py"
+"r","37","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1638997568267","memory_test.py"
+"o","37",,"Testing the Card
+",,"stdout","1638997568328",
+"o","37",,"Hit Enter to create a card with an ID of 10",,"stdout","1638997568328",
+"o","37",,"Now hit Enter to display the card",,"stdout","1638997573000",
+"o","37",," 
+",,"stdout","1638997575962",
+"o","37",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1638997575962",
+"o","37",,"Now hit Enter to display the card",,"stdout","1638997580443",
+"o","37",,"y
+",,"stdout","1638997583648",
+"o","37",,"The first card's symbol is a &
+",,"stdout","1638997583648",
+"o","37",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1638997583648",
+"o","37",,"-
+",,"stdout","1638997602791",
+"o","37",,"The second card's symbol is a :
+",,"stdout","1638997602791",
+"o","37",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1638997602791",
+"o","37",,"c
+",,"stdout","1638997613481",
+"o","37",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1638997613481",
+"o","37",,"Hit Enter to test the game board",,"stdout","1638997613481",
+"o","37",,"
+",,"stdout","1638997634821",
+"o","37",,"Testing the Board
+",,"stdout","1638997634821",
+"o","37",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"------------------------------------------
+",,"stdout","1638997634821",
+"o","37",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997634821",
+"o","37",,"Hit Enter to flip card at 7, 5",,"stdout","1638997634821",
+"o","37",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"7 |   |   |   |   | ] |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"------------------------------------------
+",,"stdout","1638997663442",
+"o","37",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997663442",
+"o","37",,"Hit Enter to flip back card at 7, 5",,"stdout","1638997663442",
+"o","37",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"Hit Enter to flip card at 3, 3  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"3 |   |   | [ |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"------------------------------------------
+",,"stdout","1638997684048",
+"o","37",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997684048",
+"o","37",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1638997684048",
+"o","37",,"This better not have happened. If it did, hit Enter.  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"3 |   |   | c |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"------------------------------------------
+",,"stdout","1638997727385",
+"o","37",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1638997727385",
+"o","37",,"Hit Enter to flip card at 4, 3",,"stdout","1638997727385",
+"o","37",,"
+Process finished with exit code -1
+",,"system","1639009329907",
+"r","38","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639009332566","memory_test.py"
+"o","38",,"Now hit Enter to display the card",,"stdout","1639009335082",
+"o","38",," 
+",,"stdout","1639009364041",
+"o","38",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639009364041",
+"o","38",,"Now hit Enter to display the card",,"stdout","1639009367553",
+"o","38",,"=
+",,"stdout","1639009368851",
+"o","38",,"The first card's symbol is a &
+",,"stdout","1639009368851",
+"o","38",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639009368851",
+"o","38",,"|
+",,"stdout","1639009862690",
+"o","38",,"The second card's symbol is a :
+",,"stdout","1639009862690",
+"o","38",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639009862690",
+"o","38",,"-
+",,"stdout","1639009865755",
+"o","38",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639009865755",
+"o","38",,"Hit Enter to test the game board",,"stdout","1639009865755",
+"o","38",,"
+",,"stdout","1639009867859",
+"o","38",,"Testing the Board
+",,"stdout","1639009867859",
+"o","38",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"------------------------------------------
+",,"stdout","1639009867859",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009867859",
+"o","38",,"Hit Enter to flip card at 7, 5",,"stdout","1639009867859",
+"o","38",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"7 |   |   |   |   | p |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"------------------------------------------
+",,"stdout","1639009870489",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009870489",
+"o","38",,"Hit Enter to flip back card at 7, 5",,"stdout","1639009870489",
+"o","38",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"------------------------------------------
+",,"stdout","1639009879592",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009879592",
+"o","38",,"Hit Enter to flip card at 3, 3",,"stdout","1639009879592",
+"o","38",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"3 |   |   | i |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"------------------------------------------
+",,"stdout","1639009881641",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009881641",
+"o","38",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639009881641",
+"o","38",,"This better not have happened. If it did, hit Enter.  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"3 |   |   | v |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"------------------------------------------
+",,"stdout","1639009893102",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009893102",
+"o","38",,"Hit Enter to flip card at 4, 3",,"stdout","1639009893102",
+"o","38",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"3 |   |   | Y |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"4 |   |   | q |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"------------------------------------------
+",,"stdout","1639009906677",
+"o","38",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639009906677",
+"o","38",,"Hit Enter to see if the two cards matchThey Do Not Match!
+",,"stdout","1639009906677",
+"o","38",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639009906677",
+"o","38",,"
+Process finished with exit code 0
+",,"system","1639009906679",
+"r","47","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639058575289","memory_test.py"
+"o","47",,"Testing the Card
+",,"stdout","1639058575319",
+"o","47",,"Hit Enter to create a card with an ID of 10",,"stdout","1639058575319",
+"o","47",,"Traceback (most recent call last):
+",,"stderr","1639058580059",
+"o","47",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639058580059",
+"o","47",,"    main()
+",,"stderr","1639058580059",
+"o","47",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 8, in main
+",,"stderr","1639058580059",
+"o","47",,"    testCard()
+",,"stderr","1639058580059",
+"o","47",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 16, in testCard
+",,"stderr","1639058580059",
+"o","47",,"    card1 = MemoryCard(10)
+",,"stderr","1639058580059",
+"o","47",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 7, in __init__
+",,"stderr","1639058580059",
+"o","47",,"    self.__value = self.getValue()
+",,"stderr","1639058580059",
+"o","47",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 11, in getValue
+",,"stderr","1639058580059",
+"o","47",,"    self.__firstAscii += 1
+",,"stderr","1639058580059",
+"o","47",,"AttributeError: 'MemoryCard' object has no attribute '_MemoryCard__firstAscii'
+",,"stderr","1639058580059",
+"o","47",,"
+Process finished with exit code 1
+",,"system","1639058580061",
+"r","48","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639058617142","memory_test.py"
+"o","48",,"Testing the Card
+",,"stdout","1639058617156",
+"o","48",,"Hit Enter to create a card with an ID of 10",,"stdout","1639058617156",
+"o","48",,"Traceback (most recent call last):
+",,"stderr","1639058619292",
+"o","48",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639058619292",
+"o","48",,"    main()
+",,"stderr","1639058619292",
+"o","48",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 8, in main
+",,"stderr","1639058619292",
+"o","48",,"    testCard()
+",,"stderr","1639058619292",
+"o","48",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 16, in testCard
+",,"stderr","1639058619292",
+"o","48",,"    card1 = MemoryCard(10)
+",,"stderr","1639058619292",
+"o","48",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 8, in __init__
+",,"stderr","1639058619292",
+"o","48",,"    self.__value = self.getValue()
+",,"stderr","1639058619292",
+"o","48",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 13, in getValue
+",,"stderr","1639058619292",
+"o","48",,"    self.__firstAscii += 1
+",,"stderr","1639058619292",
+"o","48",,"AttributeError: 'MemoryCard' object has no attribute '_MemoryCard__firstAscii'
+",,"stderr","1639058619292",
+"o","48",,"
+Process finished with exit code 1
+",,"system","1639058619293",
+"r","49","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639058723346","memory_test.py"
+"o","49",,"Traceback (most recent call last):
+",,"stderr","1639058725269",
+"o","49",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639058725269",
+"o","49",,"    main()
+",,"stderr","1639058725269",
+"o","49",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 8, in main
+",,"stderr","1639058725269",
+"o","49",,"    testCard()
+",,"stderr","1639058725269",
+"o","49",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 16, in testCard
+",,"stderr","1639058725269",
+"o","49",,"    card1 = MemoryCard(10)
+",,"stderr","1639058725269",
+"o","49",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 8, in __init__
+",,"stderr","1639058725269",
+"o","49",,"    self.__value = self.getValue()
+",,"stderr","1639058725269",
+"o","49",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 15, in getValue
+",,"stderr","1639058725269",
+"o","49",,"    return self.__firstAscii + newValue
+",,"stderr","1639058725269",
+"o","49",,"AttributeError: 'MemoryCard' object has no attribute '_MemoryCard__firstAscii'
+",,"stderr","1639058725269",
+"o","49",,"
+Process finished with exit code 1
+",,"system","1639058725272",
+"r","50","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639058779327","memory_test.py"
+"o","50",,"Now hit Enter to display the card",,"stdout","1639058784041",
+"o","50",," 
+",,"stdout","1639058786369",
+"o","50",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639058786369",
+"o","50",,"Now hit Enter to display the card",,"stdout","1639058794381",
+"o","50",,",
+",,"stdout","1639058797613",
+"o","50",,"The first card's symbol is a &
+",,"stdout","1639058797613",
+"o","50",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639058797613",
+"o","50",,"T
+",,"stdout","1639058804576",
+"o","50",,"The second card's symbol is a :
+",,"stdout","1639058804576",
+"o","50",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639058804576",
+"o","50",,"T
+",,"stdout","1639058814143",
+"o","50",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639058814143",
+"o","50",,"Hit Enter to test the game board",,"stdout","1639058814143",
+"o","50",,"
+",,"stdout","1639058826354",
+"o","50",,"Testing the Board
+",,"stdout","1639058826354",
+"o","50",,"Traceback (most recent call last):
+",,"stderr","1639058826354",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639058826354",
+"o","50",,"    main()
+",,"stderr","1639058826354",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639058826354",
+"o","50",,"    testBoard()
+",,"stderr","1639058826354",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 49, in testBoard
+",,"stderr","1639058826354",
+"o","50",,"    memoryBoard = GameBoard(COLS, ROWS)
+",,"stderr","1639058826354",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 17, in __init__
+",,"stderr","1639058826354",
+"o","50",,"    self.__board[j].append(MemoryCard(firstList))
+",,"stderr","1639058826354",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 9, in __init__
+",,"stderr","1639058826355",
+"o","50",,"    self.__value = self.getValue()
+",,"stderr","1639058826355",
+"o","50",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 13, in getValue
+",,"stderr","1639058826355",
+"o","50",,"    if self.__id % 2 == 0:
+",,"stderr","1639058826355",
+"o","50",,"TypeError: unsupported operand type(s) for %: 'list' and 'int'
+",,"stderr","1639058826355",
+"o","50",,"
+Process finished with exit code 1
+",,"system","1639058826356",
+"r","51","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639058858969","memory_test.py"
+"o","51",,"Now hit Enter to display the card",,"stdout","1639058861056",
+"o","51",," 
+",,"stdout","1639058862403",
+"o","51",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639058862403",
+"o","51",,"Now hit Enter to display the card",,"stdout","1639058864927",
+"o","51",,",
+",,"stdout","1639058866153",
+"o","51",,"The first card's symbol is a &
+",,"stdout","1639058866153",
+"o","51",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639058866153",
+"o","51",,"T
+",,"stdout","1639058868104",
+"o","51",,"The second card's symbol is a :
+",,"stdout","1639058868104",
+"o","51",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639058868104",
+"o","51",,"T
+",,"stdout","1639058870112",
+"o","51",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639058870112",
+"o","51",,"Hit Enter to test the game board",,"stdout","1639058870112",
+"o","51",,"Traceback (most recent call last):
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639058871809",
+"o","51",,"    main()
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639058871809",
+"o","51",,"    testBoard()
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 49, in testBoard
+",,"stderr","1639058871809",
+"o","51",,"    memoryBoard = GameBoard(COLS, ROWS)
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 17, in __init__
+",,"stderr","1639058871809",
+"o","51",,"    self.__board[j].append(MemoryCard(firstList))
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 9, in __init__
+",,"stderr","1639058871809",
+"o","51",,"    self.__value = self.getValue()
+",,"stderr","1639058871809",
+"o","51",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 13, in getValue
+",,"stderr","1639058871809",
+"o","51",,"    if int(self.__id) % 2 == 0:
+",,"stderr","1639058871809",
+"o","51",,"TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+",,"stderr","1639058871809",
+"o","51",,"
+",,"stdout","1639058871809",
+"o","51",,"Testing the Board
+",,"stdout","1639058871809",
+"o","51",,"
+Process finished with exit code 1
+",,"system","1639058871810",
+"r","52","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059022138","memory_test.py"
+"o","52",,"Now hit Enter to display the card",,"stdout","1639059024001",
+"o","52",," 
+",,"stdout","1639059025212",
+"o","52",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059025212",
+"o","52",,"Now hit Enter to display the card",,"stdout","1639059026221",
+"o","52",,",
+",,"stdout","1639059026862",
+"o","52",,"The first card's symbol is a &
+",,"stdout","1639059026862",
+"o","52",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059026862",
+"o","52",,"T
+",,"stdout","1639059027888",
+"o","52",,"The second card's symbol is a :
+",,"stdout","1639059027888",
+"o","52",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059027888",
+"o","52",,"T
+",,"stdout","1639059028702",
+"o","52",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059028702",
+"o","52",,"Hit Enter to test the game board",,"stdout","1639059028702",
+"o","52",,"Traceback (most recent call last):
+",,"stderr","1639059030199",
+"o","52",,"
+",,"stdout","1639059030199",
+"o","52",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059030199",
+"o","52",,"Testing the Board
+",,"stdout","1639059030199",
+"o","52",,"    main()
+",,"stderr","1639059030205",
+"o","52",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059030205",
+"o","52",,"    testBoard()
+",,"stderr","1639059030205",
+"o","52",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059030205",
+"o","52",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059030205",
+"o","52",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059030205",
+"o","52",,"    cols += str(self.__board[j][k].displayCard())
+",,"stderr","1639059030205",
+"o","52",,"AttributeError: 'list' object has no attribute 'displayCard'
+",,"stderr","1639059030205",
+"o","52",,"
+Process finished with exit code 1
+",,"system","1639059030206",
+"r","53","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059074466","memory_test.py"
+"o","53",,"Now hit Enter to display the card",,"stdout","1639059076003",
+"o","53",," 
+",,"stdout","1639059076790",
+"o","53",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059076790",
+"o","53",,"Now hit Enter to display the card",,"stdout","1639059077684",
+"o","53",,",
+",,"stdout","1639059078343",
+"o","53",,"The first card's symbol is a &
+",,"stdout","1639059078343",
+"o","53",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059078343",
+"o","53",,"T
+",,"stdout","1639059078872",
+"o","53",,"The second card's symbol is a :
+",,"stdout","1639059078872",
+"o","53",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059078872",
+"o","53",,"T
+",,"stdout","1639059079998",
+"o","53",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059079998",
+"o","53",,"Hit Enter to test the game board",,"stdout","1639059079998",
+"o","53",,"
+",,"stdout","1639059080664",
+"o","53",,"Testing the Board
+",,"stdout","1639059080664",
+"o","53",,"Traceback (most recent call last):
+",,"stderr","1639059080664",
+"o","53",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059080664",
+"o","53",,"    main()
+",,"stderr","1639059080664",
+"o","53",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059080664",
+"o","53",,"    testBoard()
+",,"stderr","1639059080664",
+"o","53",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059080664",
+"o","53",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059080664",
+"o","53",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059080664",
+"o","53",,"    cols += str(self.__board[j][k].MemoryCard.displayCard())
+",,"stderr","1639059080664",
+"o","53",,"AttributeError: 'list' object has no attribute 'MemoryCard'
+",,"stderr","1639059080664",
+"o","53",,"
+Process finished with exit code 1
+",,"system","1639059080665",
+"r","54","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059126395","memory_test.py"
+"o","54",,"Now hit Enter to display the card",,"stdout","1639059130255",
+"o","54",," 
+",,"stdout","1639059130944",
+"o","54",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059130944",
+"o","54",,"Now hit Enter to display the card",,"stdout","1639059132453",
+"o","54",,",
+",,"stdout","1639059133366",
+"o","54",,"The first card's symbol is a &
+",,"stdout","1639059133366",
+"o","54",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059133366",
+"o","54",,"T
+",,"stdout","1639059134279",
+"o","54",,"The second card's symbol is a :
+",,"stdout","1639059134279",
+"o","54",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059134279",
+"o","54",,"T
+",,"stdout","1639059135108",
+"o","54",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059135108",
+"o","54",,"Hit Enter to test the game board",,"stdout","1639059135108",
+"o","54",,"
+",,"stdout","1639059135906",
+"o","54",,"Traceback (most recent call last):
+",,"stderr","1639059135906",
+"o","54",,"Testing the Board
+",,"stdout","1639059135906",
+"o","54",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059135906",
+"o","54",,"    main()
+",,"stderr","1639059135906",
+"o","54",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059135906",
+"o","54",,"    testBoard()
+",,"stderr","1639059135906",
+"o","54",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059135906",
+"o","54",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059135906",
+"o","54",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059135906",
+"o","54",,"    cols += str(self.__board[j][k].displayCard())
+",,"stderr","1639059135906",
+"o","54",,"AttributeError: 'list' object has no attribute 'displayCard'
+",,"stderr","1639059135906",
+"o","54",,"
+Process finished with exit code 1
+",,"system","1639059135907",
+"r","55","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059249178","memory_test.py"
+"o","55",,"Now hit Enter to display the card",,"stdout","1639059264457",
+"o","55",," 
+",,"stdout","1639059265148",
+"o","55",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059265148",
+"o","55",,"Now hit Enter to display the card",,"stdout","1639059265776",
+"o","55",,",
+",,"stdout","1639059266356",
+"o","55",,"The first card's symbol is a &
+",,"stdout","1639059266356",
+"o","55",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059266356",
+"o","55",,"T
+",,"stdout","1639059267109",
+"o","55",,"The second card's symbol is a :
+",,"stdout","1639059267109",
+"o","55",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059267109",
+"o","55",,"T
+",,"stdout","1639059267831",
+"o","55",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059267831",
+"o","55",,"Hit Enter to test the game board",,"stdout","1639059267831",
+"o","55",,"Traceback (most recent call last):
+",,"stderr","1639059268512",
+"o","55",,"
+",,"stdout","1639059268512",
+"o","55",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059268512",
+"o","55",,"    main()
+",,"stderr","1639059268512",
+"o","55",,"Testing the Board
+",,"stdout","1639059268512",
+"o","55",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059268512",
+"o","55",,"    testBoard()
+",,"stderr","1639059268512",
+"o","55",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059268512",
+"o","55",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059268512",
+"o","55",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059268512",
+"o","55",,"    cols += str(MemoryCard.displayCard(self.__board[j][k]))
+",,"stderr","1639059268512",
+"o","55",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 35, in displayCard
+",,"stderr","1639059268512",
+"o","55",,"    if self.__flipCard == True:
+",,"stderr","1639059268512",
+"o","55",,"AttributeError: 'list' object has no attribute '_MemoryCard__flipCard'
+",,"stderr","1639059268512",
+"o","55",,"
+Process finished with exit code 1
+",,"system","1639059268513",
+"r","56","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059444307","memory_test.py"
+"o","56",,"Now hit Enter to display the card",,"stdout","1639059445977",
+"o","56",,",
+",,"stdout","1639059446811",
+"o","56",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059446811",
+"o","56",,"Now hit Enter to display the card",,"stdout","1639059447595",
+"o","56",,"-
+",,"stdout","1639059448130",
+"o","56",,"The first card's symbol is a &
+",,"stdout","1639059448130",
+"o","56",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059448130",
+"o","56",," 
+",,"stdout","1639059448723",
+"o","56",,"The second card's symbol is a :
+",,"stdout","1639059448723",
+"o","56",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059448723",
+"o","56",," 
+",,"stdout","1639059449832",
+"o","56",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059449832",
+"o","56",,"Hit Enter to test the game board",,"stdout","1639059449832",
+"o","56",,"Traceback (most recent call last):
+",,"stderr","1639059457120",
+"o","56",,"
+",,"stdout","1639059457120",
+"o","56",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059457120",
+"o","56",,"    main()
+",,"stderr","1639059457120",
+"o","56",,"Testing the Board
+",,"stdout","1639059457120",
+"o","56",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059457120",
+"o","56",,"    testBoard()
+",,"stderr","1639059457120",
+"o","56",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059457120",
+"o","56",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059457120",
+"o","56",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059457120",
+"o","56",,"    cols += str(MemoryCard.displayCard(self.__board[j][k]))
+",,"stderr","1639059457120",
+"o","56",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 35, in displayCard
+",,"stderr","1639059457120",
+"o","56",,"    if self.toggleFlipped() == True:
+",,"stderr","1639059457120",
+"o","56",,"AttributeError: 'list' object has no attribute 'toggleFlipped'
+",,"stderr","1639059457120",
+"o","56",,"
+Process finished with exit code 1
+",,"system","1639059457122",
+"r","57","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639059473189","memory_test.py"
+"o","57",,"Now hit Enter to display the card 
+",,"stdout","1639059476449",
+"o","57",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639059476449",
+"o","57",,"Now hit Enter to display the card",,"stdout","1639059477877",
+"o","57",,",
+",,"stdout","1639059478475",
+"o","57",,"The first card's symbol is a &
+",,"stdout","1639059478475",
+"o","57",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639059478475",
+"o","57",,"T
+",,"stdout","1639059479149",
+"o","57",,"The second card's symbol is a :
+",,"stdout","1639059479149",
+"o","57",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639059479149",
+"o","57",,"T
+",,"stdout","1639059479819",
+"o","57",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639059479819",
+"o","57",,"Hit Enter to test the game board",,"stdout","1639059479819",
+"o","57",,"
+",,"stdout","1639059483041",
+"o","57",,"Testing the Board
+",,"stdout","1639059483041",
+"o","57",,"Traceback (most recent call last):
+",,"stderr","1639059483041",
+"o","57",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 85, in <module>
+",,"stderr","1639059483041",
+"o","57",,"    main()
+",,"stderr","1639059483041",
+"o","57",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 11, in main
+",,"stderr","1639059483041",
+"o","57",,"    testBoard()
+",,"stderr","1639059483041",
+"o","57",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 51, in testBoard
+",,"stderr","1639059483041",
+"o","57",,"    print(memoryBoard.getBoard())
+",,"stderr","1639059483041",
+"o","57",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 27, in getBoard
+",,"stderr","1639059483041",
+"o","57",,"    cols += str(MemoryCard.displayCard(self.__board[j][k]))
+",,"stderr","1639059483041",
+"o","57",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memorycard.py"", line 35, in displayCard
+",,"stderr","1639059483041",
+"o","57",,"    if self.__flipCard == True:
+",,"stderr","1639059483041",
+"o","57",,"AttributeError: 'list' object has no attribute '_MemoryCard__flipCard'
+",,"stderr","1639059483041",
+"o","57",,"
+Process finished with exit code 1
+",,"system","1639059483045",
+"r","127","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639071853207","memory_test.py"
+"o","127",,"Testing the Card
+",,"stdout","1639071853227",
+"o","127",,"Hit Enter to create a card with an ID of 10",,"stdout","1639071853227",
+"o","127",,"Now hit Enter to display the card",,"stdout","1639071855819",
+"o","127",," 
+",,"stdout","1639071859432",
+"o","127",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639071859432",
+"o","127",,"Now hit Enter to display the card",,"stdout","1639071860790",
+"o","127",,",
+",,"stdout","1639071861980",
+"o","127",,"The first card's symbol is a &
+",,"stdout","1639071861980",
+"o","127",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639071861980",
+"o","127",,"T
+",,"stdout","1639071863563",
+"o","127",,"The second card's symbol is a :
+",,"stdout","1639071863563",
+"o","127",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639071863563",
+"o","127",,"T
+",,"stdout","1639071864548",
+"o","127",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639071864548",
+"o","127",,"Hit Enter to test the game board",,"stdout","1639071864548",
+"o","127",,"
+",,"stdout","1639071870091",
+"o","127",,"Testing the Board
+",,"stdout","1639071870091",
+"o","127",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"------------------------------------------
+",,"stdout","1639071870091",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071870091",
+"o","127",,"Hit Enter to flip card at 7, 5",,"stdout","1639071870091",
+"o","127",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"------------------------------------------
+",,"stdout","1639071880042",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071880042",
+"o","127",,"Hit Enter to flip back card at 7, 5",,"stdout","1639071880042",
+"o","127",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"Hit Enter to flip card at 3, 3  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"------------------------------------------
+",,"stdout","1639071887101",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071887101",
+"o","127",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639071887101",
+"o","127",,"This better not have happened. If it did, hit Enter.  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"------------------------------------------
+",,"stdout","1639071897906",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071897906",
+"o","127",,"Hit Enter to flip card at 4, 3",,"stdout","1639071897906",
+"o","127",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"------------------------------------------
+",,"stdout","1639071908741",
+"o","127",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071908741",
+"o","127",,"Hit Enter to see if the two cards matchThey Do Not Match!
+",,"stdout","1639071908741",
+"o","127",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639071908741",
+"o","127",,"
+Process finished with exit code 0
+",,"system","1639071908742",
+"r","128","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639071946676","memory_test.py"
+"o","128",,"Now hit Enter to display the card",,"stdout","1639071948648",
+"o","128",," 
+",,"stdout","1639071951705",
+"o","128",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639071951705",
+"o","128",,"Now hit Enter to display the card",,"stdout","1639071954047",
+"o","128",,",
+",,"stdout","1639071958394",
+"o","128",,"The first card's symbol is a &
+",,"stdout","1639071958394",
+"o","128",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639071958394",
+"o","128",,"T
+",,"stdout","1639071964648",
+"o","128",,"The second card's symbol is a :
+",,"stdout","1639071964648",
+"o","128",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639071964648",
+"o","128",,"T
+",,"stdout","1639071966436",
+"o","128",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639071966436",
+"o","128",,"Hit Enter to test the game board",,"stdout","1639071966436",
+"o","128",,"
+",,"stdout","1639071967217",
+"o","128",,"Testing the Board
+",,"stdout","1639071967217",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"------------------------------------------
+",,"stdout","1639071967217",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071967217",
+"o","128",,"Hit Enter to flip card at 7, 5",,"stdout","1639071967217",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"------------------------------------------
+",,"stdout","1639071968629",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071968629",
+"o","128",,"Hit Enter to flip back card at 7, 5",,"stdout","1639071968629",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"------------------------------------------
+",,"stdout","1639071971391",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071971391",
+"o","128",,"Hit Enter to flip card at 3, 3",,"stdout","1639071971391",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"------------------------------------------
+",,"stdout","1639071977850",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071977850",
+"o","128",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happenThis better not have happened. If it did, hit Enter.",,"stdout","1639071977850",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"------------------------------------------
+",,"stdout","1639071980246",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071980246",
+"o","128",,"Hit Enter to flip card at 4, 3",,"stdout","1639071980246",
+"o","128",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"------------------------------------------
+",,"stdout","1639071987964",
+"o","128",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639071987964",
+"o","128",,"Hit Enter to see if the two cards matchThey Do Not Match!
+",,"stdout","1639071987964",
+"o","128",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639071987964",
+"o","128",,"
+Process finished with exit code 0
+",,"system","1639071987965",
+"r","163","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639095793224","memory_test.py"
+"o","163",,"Testing the Card
+",,"stdout","1639095793262",
+"o","163",,"Hit Enter to create a card with an ID of 10",,"stdout","1639095793262",
+"o","163",,"Now hit Enter to display the card",,"stdout","1639095795113",
+"o","163",," 
+",,"stdout","1639095796169",
+"o","163",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639095796169",
+"o","163",,"Now hit Enter to display the card",,"stdout","1639095797455",
+"o","163",,",
+",,"stdout","1639095798353",
+"o","163",,"The first card's symbol is a &
+",,"stdout","1639095798353",
+"o","163",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639095798353",
+"o","163",,"T
+",,"stdout","1639095799300",
+"o","163",,"The second card's symbol is a :
+",,"stdout","1639095799300",
+"o","163",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639095799300",
+"o","163",,"T
+",,"stdout","1639095800107",
+"o","163",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639095800107",
+"o","163",,"Hit Enter to test the game board",,"stdout","1639095800107",
+"o","163",,"
+",,"stdout","1639095801116",
+"o","163",,"Testing the Board
+",,"stdout","1639095801116",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"------------------------------------------
+",,"stdout","1639095801116",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095801116",
+"o","163",,"Hit Enter to flip card at 7, 5",,"stdout","1639095801116",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"------------------------------------------
+",,"stdout","1639095802966",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095802966",
+"o","163",,"Hit Enter to flip back card at 7, 5",,"stdout","1639095802966",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"------------------------------------------
+",,"stdout","1639095804905",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095804905",
+"o","163",,"Hit Enter to flip card at 3, 3",,"stdout","1639095804905",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"------------------------------------------
+",,"stdout","1639095806994",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095806994",
+"o","163",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639095806994",
+"o","163",,"This better not have happened. If it did, hit Enter.",,"stdout","1639095808984",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"------------------------------------------
+",,"stdout","1639095810273",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095810273",
+"o","163",,"Hit Enter to flip card at 4, 3",,"stdout","1639095810273",
+"o","163",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"------------------------------------------
+",,"stdout","1639095811684",
+"o","163",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095811684",
+"o","163",,"Hit Enter to see if the two cards match",,"stdout","1639095811684",
+"o","163",,"They Do Not Match!
+",,"stdout","1639095816884",
+"o","163",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639095816884",
+"o","163",,"
+Process finished with exit code 0
+",,"system","1639095816885",
+"r","164","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639095882931","memory_test.py"
+"o","164",,"Testing the Card
+",,"stdout","1639095882951",
+"o","164",,"Hit Enter to create a card with an ID of 10",,"stdout","1639095882951",
+"o","164",,"Now hit Enter to display the card",,"stdout","1639095884974",
+"o","164",," 
+",,"stdout","1639095885657",
+"o","164",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639095885657",
+"o","164",,"Now hit Enter to display the card",,"stdout","1639095886399",
+"o","164",,",
+",,"stdout","1639095887067",
+"o","164",,"The first card's symbol is a &
+",,"stdout","1639095887067",
+"o","164",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639095887067",
+"o","164",,"T
+",,"stdout","1639095887765",
+"o","164",,"The second card's symbol is a :
+",,"stdout","1639095887765",
+"o","164",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639095887765",
+"o","164",,"T
+",,"stdout","1639095888368",
+"o","164",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639095888368",
+"o","164",,"Hit Enter to test the game board",,"stdout","1639095888368",
+"o","164",,"
+",,"stdout","1639095889005",
+"o","164",,"Testing the Board
+",,"stdout","1639095889005",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889005",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889005",
+"o","164",,"Hit Enter to flip card at 7, 5",,"stdout","1639095889005",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"------------------------------------------
+",,"stdout","1639095889996",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095889996",
+"o","164",,"Hit Enter to flip back card at 7, 5",,"stdout","1639095889996",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"------------------------------------------
+",,"stdout","1639095890830",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095890830",
+"o","164",,"Hit Enter to flip card at 3, 3",,"stdout","1639095890830",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"------------------------------------------
+",,"stdout","1639095891637",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095891637",
+"o","164",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639095891637",
+"o","164",,"This better not have happened. If it did, hit Enter.",,"stdout","1639095892615",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"------------------------------------------
+",,"stdout","1639095893368",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095893368",
+"o","164",,"Hit Enter to flip card at 4, 3",,"stdout","1639095893368",
+"o","164",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"------------------------------------------
+",,"stdout","1639095894268",
+"o","164",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095894268",
+"o","164",,"Hit Enter to see if the two cards match",,"stdout","1639095894268",
+"o","164",,"They Do Not Match!
+",,"stdout","1639095895154",
+"o","164",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639095895154",
+"o","164",,"
+Process finished with exit code 0
+",,"system","1639095895154",
+"r","165","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639095974744","memory_test.py"
+"o","165",,"Testing the Card
+",,"stdout","1639095974763",
+"o","165",,"Hit Enter to create a card with an ID of 10",,"stdout","1639095974763",
+"o","165",,"Now hit Enter to display the card",,"stdout","1639095975991",
+"o","165",," 
+",,"stdout","1639095976566",
+"o","165",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639095976566",
+"o","165",,"Now hit Enter to display the card",,"stdout","1639095977171",
+"o","165",,",
+",,"stdout","1639095977787",
+"o","165",,"The first card's symbol is a &
+",,"stdout","1639095977787",
+"o","165",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639095977787",
+"o","165",,"T
+",,"stdout","1639095978405",
+"o","165",,"The second card's symbol is a :
+",,"stdout","1639095978405",
+"o","165",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639095978405",
+"o","165",,"T
+",,"stdout","1639095978994",
+"o","165",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639095978994",
+"o","165",,"Hit Enter to test the game board",,"stdout","1639095978994",
+"o","165",,"
+",,"stdout","1639095979586",
+"o","165",,"Testing the Board
+",,"stdout","1639095979586",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"------------------------------------------
+",,"stdout","1639095979586",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095979586",
+"o","165",,"Hit Enter to flip card at 7, 5",,"stdout","1639095979586",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980238",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980238",
+"o","165",,"Hit Enter to flip back card at 7, 5",,"stdout","1639095980238",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"------------------------------------------
+",,"stdout","1639095980889",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095980889",
+"o","165",,"Hit Enter to flip card at 3, 3",,"stdout","1639095980889",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"------------------------------------------
+",,"stdout","1639095981695",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095981695",
+"o","165",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639095981695",
+"o","165",,"This better not have happened. If it did, hit Enter.",,"stdout","1639095982378",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"------------------------------------------
+",,"stdout","1639095983434",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095983434",
+"o","165",,"Hit Enter to flip card at 4, 3",,"stdout","1639095983434",
+"o","165",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"------------------------------------------
+",,"stdout","1639095984398",
+"o","165",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639095984398",
+"o","165",,"Hit Enter to see if the two cards match",,"stdout","1639095984398",
+"o","165",,"They Do Not Match!
+",,"stdout","1639095985560",
+"o","165",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639095985560",
+"o","165",,"
+Process finished with exit code 0
+",,"system","1639095985560",
+"r","166","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639096017145","memory_test.py"
+"o","166",,"Traceback (most recent call last):
+",,"stderr","1639096017188",
+"o","166",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\memory_test.py"", line 3, in <module>
+",,"stderr","1639096017188",
+"o","166",,"    from modules.gameboard import GameBoard
+",,"stderr","1639096017188",
+"o","166",,"  File ""C:\Users\Harrison Wynn\Documents\CS 1400 Homework\Wynn-Harrison-Assn13\modules\gameboard.py"", line 44
+",,"stderr","1639096017188",
+"o","166",,"    if self.__board[xPos][yPos].getValue() == self.__board[xPos1][yPos1].getValue():
+",,"stderr","1639096017188",
+"o","166",,"IndentationError: unexpected indent
+",,"stderr","1639096017188",
+"o","166",,"
+Process finished with exit code 1
+",,"system","1639096017189",
+"r","167","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639096032192","memory_test.py"
+"o","167",,"Testing the Card
+",,"stdout","1639096032231",
+"o","167",,"Hit Enter to create a card with an ID of 10",,"stdout","1639096032231",
+"o","167",,"Now hit Enter to display the card",,"stdout","1639096033745",
+"o","167",," 
+",,"stdout","1639096034424",
+"o","167",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639096034424",
+"o","167",,"Now hit Enter to display the card",,"stdout","1639096035179",
+"o","167",,",
+",,"stdout","1639096035819",
+"o","167",,"The first card's symbol is a &
+",,"stdout","1639096035819",
+"o","167",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639096035819",
+"o","167",,"T
+",,"stdout","1639096036498",
+"o","167",,"The second card's symbol is a :
+",,"stdout","1639096036498",
+"o","167",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639096036498",
+"o","167",,"T
+",,"stdout","1639096037136",
+"o","167",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639096037136",
+"o","167",,"Hit Enter to test the game board",,"stdout","1639096037136",
+"o","167",,"
+",,"stdout","1639096037758",
+"o","167",,"Testing the Board
+",,"stdout","1639096037758",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"------------------------------------------
+",,"stdout","1639096037758",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096037758",
+"o","167",,"Hit Enter to flip card at 7, 5",,"stdout","1639096037758",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"------------------------------------------
+",,"stdout","1639096038795",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096038795",
+"o","167",,"Hit Enter to flip back card at 7, 5",,"stdout","1639096038795",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"------------------------------------------
+",,"stdout","1639096039444",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096039444",
+"o","167",,"Hit Enter to flip card at 3, 3",,"stdout","1639096039444",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"------------------------------------------
+",,"stdout","1639096040190",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096040190",
+"o","167",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639096040190",
+"o","167",,"This better not have happened. If it did, hit Enter.",,"stdout","1639096041691",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"------------------------------------------
+",,"stdout","1639096042865",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096042865",
+"o","167",,"Hit Enter to flip card at 4, 3",,"stdout","1639096042865",
+"o","167",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"------------------------------------------
+",,"stdout","1639096043716",
+"o","167",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096043716",
+"o","167",,"Hit Enter to see if the two cards match",,"stdout","1639096043716",
+"o","167",,"They Do Not Match!
+",,"stdout","1639096044645",
+"o","167",,"Remove the shuffling in memoryboard.py to get a match
+",,"stdout","1639096044645",
+"o","167",,"
+Process finished with exit code 0
+",,"system","1639096044646",
+"r","168","""C:\Users\Harrison Wynn\AppData\Local\Programs\Python\Python39\python.exe"" ""C:/Users/Harrison Wynn/Documents/CS 1400 Homework/Wynn-Harrison-Assn13/modules/memory_test.py""",,"PythonRunner",,"1639096058715","memory_test.py"
+"o","168",,"Testing the Card
+",,"stdout","1639096058737",
+"o","168",,"Hit Enter to create a card with an ID of 10",,"stdout","1639096058737",
+"o","168",,"Now hit Enter to display the card",,"stdout","1639096060737",
+"o","168",," 
+",,"stdout","1639096061307",
+"o","168",,"Nothing displayed. Now hit Enter to flip the card",,"stdout","1639096061307",
+"o","168",,"Now hit Enter to display the card",,"stdout","1639096061830",
+"o","168",,",
+",,"stdout","1639096062356",
+"o","168",,"The first card's symbol is a &
+",,"stdout","1639096062356",
+"o","168",,"Hit Enter to create, flip, and display a card with an ID of 50",,"stdout","1639096062356",
+"o","168",,"T
+",,"stdout","1639096062934",
+"o","168",,"The second card's symbol is a :
+",,"stdout","1639096062934",
+"o","168",,"Hit Enter to create, flip, and display a card with an ID of 51",,"stdout","1639096062934",
+"o","168",,"T
+",,"stdout","1639096063680",
+"o","168",,"Card 2 and 3 match event though they have different ID values
+",,"stdout","1639096063680",
+"o","168",,"Hit Enter to test the game board",,"stdout","1639096063680",
+"o","168",,"
+",,"stdout","1639096064384",
+"o","168",,"Testing the Board
+",,"stdout","1639096064384",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"------------------------------------------
+",,"stdout","1639096064384",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096064384",
+"o","168",,"Hit Enter to flip card at 7, 5",,"stdout","1639096064384",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"7 |   |   |   |   | "" |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065192",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065192",
+"o","168",,"Hit Enter to flip back card at 7, 5",,"stdout","1639096065192",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"3 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"------------------------------------------
+",,"stdout","1639096065843",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096065843",
+"o","168",,"Hit Enter to flip card at 3, 3",,"stdout","1639096065843",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"3 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"------------------------------------------
+",,"stdout","1639096066509",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096066509",
+"o","168",,"Hit Enter to try to flip a card that is already flipped when we don't want that to happen",,"stdout","1639096066509",
+"o","168",,"This better not have happened. If it did, hit Enter.",,"stdout","1639096067502",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"3 |   |   | # |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"4 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"------------------------------------------
+",,"stdout","1639096068124",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096068124",
+"o","168",,"Hit Enter to flip card at 4, 3",,"stdout","1639096068124",
+"o","168",,"  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"1 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"2 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"3 |   |   | $ |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"4 |   |   | "" |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"5 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"6 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"7 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"------------------------------------------
+",,"stdout","1639096069026",
+"o","168",,"8 |   |   |   |   |   |   |   |   | 
+",,"stdout","1639096069026",
+"o","168",,"Hit Enter to see if the two cards match",,"stdout","1639096069026",
+"o","168",,"They Match!
+",,"stdout","1639096070492",
+"o","168",,"
+Process finished with exit code 0
+",,"system","1639096070492",
